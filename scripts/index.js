@@ -68,3 +68,7 @@ function insertCardWithImageURL(url, nome) {
 </li>`)
 }
 
+function finalizado() {
+  console.log('Sucesso!');
+}
+
